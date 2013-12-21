@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.secristfamily.maven.plugins</groupId>
+  <artifactId>maven-rpm-plugin</artifactId>
+  <versioning>
+    <latest>1.5-SNAPSHOT</latest>
+    <versions>
+      <version>1.5-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20131221190248</lastUpdated>
+  </versioning>
+</metadata>

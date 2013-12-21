@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Timestamp Plugin</name>
+      <prefix>timestamp</prefix>
+      <artifactId>maven-timestamp-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Zip Plugin</name>
+      <prefix>zip</prefix>
+      <artifactId>maven-zip-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven RPM Plugin</name>
+      <prefix>rpm</prefix>
+      <artifactId>maven-rpm-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
