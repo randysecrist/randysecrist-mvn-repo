@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>riak_json_java_client</groupId>
-  <artifactId>riak_json_java_client</artifactId>
+  <groupId>com.basho.riak</groupId>
+  <artifactId>riak-json</artifactId>
   <versioning>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20140225190926</lastUpdated>
+    <lastUpdated>20140307203047</lastUpdated>
   </versioning>
 </metadata>
